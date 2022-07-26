@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1658843094 source:f:\amit embedded\assignments\assign 3\asg_3_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fibo_func.h"
+
+1658843474 source:f:\amit embedded\assignments\assign 3\asg_3_2\fibo_func.c
+
+1658842951 f:\amit embedded\assignments\assign 3\asg_3_2\fibo_func.h
+
